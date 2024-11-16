@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|c:\\evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\global var.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\global var.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|c:\\evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
+              "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
+              "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmMain.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\frmMain.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:27:41.947Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global var.cs",
+              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Global var.cs",
+              "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\Global var.cs",
+              "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Global var.cs",
+              "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\Global var.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:37:34.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
+              "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
+              "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
+              "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:34:03.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmUsers.cs",
+              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmUsers.cs",
+              "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\frmUsers.cs",
+              "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmUsers.cs",
+              "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\frmUsers.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAlwKUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:24:13.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
+              "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
+              "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:41:40.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
+              "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:01:09.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
