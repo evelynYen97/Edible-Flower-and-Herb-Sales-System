@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\",
+  "WorkspaceRootPath": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|c:\\evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\global var.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|c:\\users\\evelyn\\source\\edible flower and herb sales system\\\u500B\u4EBA\u5C08\u984C\\global var.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\global var.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|c:\\evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|c:\\users\\evelyn\\source\\edible flower and herb sales system\\\u500B\u4EBA\u5C08\u984C\\pos\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\pos\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C9954C-97D9-4F17-A226-15EA8DDD9331}|\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C.csproj|solutionrelative:\u500B\u4EBA\u5C08\u984C\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "frmMain.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
               "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
-              "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmMain.cs [\u8A2D\u8A08]",
+              "ToolTip": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\frmMain.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\frmMain.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T09:27:41.947Z",
@@ -51,16 +51,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Global var.cs",
-              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Global var.cs",
-              "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\Global var.cs",
-              "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Global var.cs",
-              "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\Global var.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "frmPOS.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\Pos\\frmPOS.cs",
+              "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\Pos\\frmPOS.cs",
+              "ToolTip": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\Pos\\frmPOS.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\Pos\\frmPOS.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:37:34.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T07:00:15.137Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Bookmark",
@@ -68,24 +67,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmMain.cs",
-              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
-              "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
-              "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
-              "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\frmMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Global var.cs",
+              "DocumentMoniker": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\Global var.cs",
+              "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\Global var.cs",
+              "ToolTip": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\Global var.cs",
+              "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\Global var.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T06:34:03.686Z",
+              "WhenOpened": "2024-11-16T08:37:34.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "frmUsers.cs",
-              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmUsers.cs",
+              "DocumentMoniker": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\frmUsers.cs",
               "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\frmUsers.cs",
-              "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\frmUsers.cs",
+              "ToolTip": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\frmUsers.cs",
               "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\frmUsers.cs",
               "ViewState": "AgIAAJQAAAAAAAAAAAAlwKUAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,9 +94,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
               "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
-              "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
               "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAQwJEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,10 +106,10 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "frmLogin.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
               "RelativeDocumentMoniker": "\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs",
               "ToolTip": "C:\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\Evelyn\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\\u500B\u4EBA\u5C08\u984C\\Login\\frmLogin.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T15:01:09.906Z"
             }

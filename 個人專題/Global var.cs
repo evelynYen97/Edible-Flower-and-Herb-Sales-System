@@ -11,8 +11,8 @@ namespace 個人專題
     internal class Global_var
     {
         internal static string strDBConnectionString = "";
-        internal static string image_dir = "C:\\Evelyn\\個人專題\\個人專題\\images";
-        internal static string image_dirLogin = "C:\\Evelyn\\個人專題\\個人專題\\usersPhotos";
+        internal static string image_dir = "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\images";
+        internal static string image_dirLogin = "C:\\Users\\evelyn\\source\\Edible Flower and Herb Sales System\\usersPhotos";
         internal static string str目前圖檔的副檔名 = "";
         internal static List<ArrayList> listOrderItems = new List<ArrayList>(); //購物車
         internal  static string str送貨方式 = ""; //訂單描述

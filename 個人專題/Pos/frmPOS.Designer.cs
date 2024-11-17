@@ -131,9 +131,9 @@
             this.label3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.label3.Location = new System.Drawing.Point(12, 19);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(174, 24);
+            this.label3.Size = new System.Drawing.Size(199, 24);
             this.label3.TabIndex = 35;
-            this.label3.Text = " 👤 Client Name:";
+            this.label3.Text = " 👤 Client Name:     ";
             // 
             // btnReservation
             // 
